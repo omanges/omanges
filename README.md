@@ -1,4 +1,4 @@
-### Hi there 👋, name is Omkar Mestry
+### Hi there 👋, my name is Omkar Mestry
 
 #### I am a software developer who likes to work on large scale systems and learn about new technologies and share knowledge about it.
 
