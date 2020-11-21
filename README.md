@@ -2,7 +2,7 @@
 
 #### I am a software developer who likes to work on large scale systems and learn about new technologies and share knowledge about it.
 
-Skills: JAVA, PYTHON / DATA SCIENCE / JS / HTML / CSS / Apache Cassandra / Apache Kafka / AWS / Bash / Batch / GitHub / GitLab / Jupyter / MySQL / Redis / GitLab CI / Travis CI
+Skills: JAVA, PYTHON / DATA SCIENCE / JS / Apache Cassandra / Apache Kafka / AWS / Bash / Batch / GitHub / GitLab / Jupyter / MySQL / Redis / GitLab CI / Travis CI
 
 🌱 I’m currently working as a Software Engineer at HERE Technologies.
 
